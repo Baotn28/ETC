@@ -1,3 +1,5 @@
 Even monkey understand Git command
 add: sign up for changes in index
 commit: save the state of index
+pull: get contents of remote repository
+

@@ -1,1 +1,2 @@
 Even monkey understand Git command
+add: sign up for changes in index
